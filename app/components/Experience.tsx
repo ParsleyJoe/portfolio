@@ -11,8 +11,8 @@ interface ExperienceCard {
 const experienceCards: ExperienceCard[] = [
   {
     id: 1,
-    title: "WebHR - HR Management App",
-    description: "WebHR automates all of your company's HR processes such as Recruitment, Onboarding, Payroll, Time & Attendance, Leaves & PTO, Performance, and much more.",
+    title: "Ice Creams Hate Robots!",
+    description: "Game made from scratch, in C++. Made a engine on top of Drawing Library 'Raylib'",
     icon: "/cards/card-1.png",
   },
   {
