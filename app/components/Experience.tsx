@@ -12,25 +12,25 @@ const experienceCards: ExperienceCard[] = [
   {
     id: 1,
     title: "Ice Creams Hate Robots!",
-    description: "Game made from scratch, in C++. Made a engine on top of Drawing Library 'Raylib'",
+    description: "Built a game and its engine from scratch in C++, using Raylib only as the drawing backend — everything else (game logic, systems, mechanics) is custom.",
     icon: "/cards/card-1.png",
   },
   {
     id: 2,
-    title: "WebHR Kiosk - Time Clock Kiosk",
-    description: "WebHR Kiosk is a time clock kiosk that allows you to clock in and out of your work. It is a simple and easy to use app that allows you to clock in and out of your work.",
+    title: "Python Internship",
+    description: "QSkill Python Development internship. Hands on python expererience with projects based on statistics, machine learning and matrices",
     icon: "/cards/card-2.png",
   },
   {
     id: 3,
-    title: "Somezing - AI-Powered Agents",
-    description: "Somezing is a AI-Powered Agents to Automate Your Workflows. It is a simple and easy to use app that allows you to automate your workflows.",
+    title: "MinLauncher",
+    description: "A minimalistic game launcher built with C# and WPF capable of launching any executable (.exe) through a simple and lightweight interface.",
     icon: "/cards/card-3.png",
   },
   {
     id: 4,
-    title: "FileIT - File Sharing App",
-    description: "FileIT is a file sharing app that allows you to share files with your friends and family. It is a simple and easy to use app that allows you to share files with your friends and family.",
+    title: "BeatEmUp Game Prototype",
+    description: "Designed and implemented a custom C++ game engine and used it to prototype a beat ’em up game, developing real-time combat systems, animation handling, input processing, and entity architecture.",
     icon: "/cards/card-4.png",
   },
 ];
